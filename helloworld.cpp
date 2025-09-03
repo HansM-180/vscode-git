@@ -8,6 +8,7 @@ int main()
     bool student = false;
     std::string car = "Ford";
     double temperature = 26.5;
+    std::string name = "Hans";
 
     cout << "Hello, World! I'm Hans and I will become a Programmer! lol.\n";
     cout << age << " I'm a " << student << '\n';
