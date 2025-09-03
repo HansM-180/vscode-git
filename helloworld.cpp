@@ -9,6 +9,8 @@ int main()
     std::string car = "Ford";
     double temperature = 26.5;
     std::string name = "Hans";
+    char grade = 'A';
+    float height = 5.9f;
 
     cout << "Hello, World! I'm Hans and I will become a Programmer! lol.\n";
     cout << age << " I'm a " << student << '\n';
