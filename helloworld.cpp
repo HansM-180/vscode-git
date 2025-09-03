@@ -11,6 +11,7 @@ int main()
     std::string name = "Hans";
     char grade = 'A';
     float height = 5.9f;
+    string country = "Philippines";
 
     cout << "Hello, World! I'm Hans and I will become a Programmer! lol.\n";
     cout << age << " I'm a " << student << '\n';
